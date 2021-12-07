@@ -1,5 +1,3 @@
-- Doesn´t matter who I am
-<!---
-GavianUchiha/GavianUchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Doesn´t matter who I am, only what I can do
+- I want to be the best hacker in the history
+- I only trust who I have to trust
