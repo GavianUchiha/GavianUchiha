@@ -1,4 +1,1 @@
-- Doesn´t matter who I am, only what I can do
-- I want to be the best hacker in the history
-- I only trust who I have to trust
-- It's not about how much time you have, It's how you use it
+
